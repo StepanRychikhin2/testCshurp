@@ -1,0 +1,15 @@
+C:\Users\ПК\Documents\GitHub\testCshurp\bin\Debug\net10.0\testCshurp.exe
+C:\Users\ПК\Documents\GitHub\testCshurp\bin\Debug\net10.0\testCshurp.deps.json
+C:\Users\ПК\Documents\GitHub\testCshurp\bin\Debug\net10.0\testCshurp.runtimeconfig.json
+C:\Users\ПК\Documents\GitHub\testCshurp\bin\Debug\net10.0\testCshurp.dll
+C:\Users\ПК\Documents\GitHub\testCshurp\bin\Debug\net10.0\testCshurp.pdb
+C:\Users\ПК\Documents\GitHub\testCshurp\obj\Debug\net10.0\testCshurp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ПК\Documents\GitHub\testCshurp\obj\Debug\net10.0\testCshurp.AssemblyInfoInputs.cache
+C:\Users\ПК\Documents\GitHub\testCshurp\obj\Debug\net10.0\testCshurp.AssemblyInfo.cs
+C:\Users\ПК\Documents\GitHub\testCshurp\obj\Debug\net10.0\testCshurp.csproj.CoreCompileInputs.cache
+C:\Users\ПК\Documents\GitHub\testCshurp\obj\Debug\net10.0\testCshurp.sourcelink.json
+C:\Users\ПК\Documents\GitHub\testCshurp\obj\Debug\net10.0\testCshurp.dll
+C:\Users\ПК\Documents\GitHub\testCshurp\obj\Debug\net10.0\refint\testCshurp.dll
+C:\Users\ПК\Documents\GitHub\testCshurp\obj\Debug\net10.0\testCshurp.pdb
+C:\Users\ПК\Documents\GitHub\testCshurp\obj\Debug\net10.0\testCshurp.genruntimeconfig.cache
+C:\Users\ПК\Documents\GitHub\testCshurp\obj\Debug\net10.0\ref\testCshurp.dll
