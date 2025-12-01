@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("testCshurp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+934bbb453eda9810a6306968b98e4b02dd554c9e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+def1134e6a8ae41644bbf1e36471fb31b4d2fc42")]
 [assembly: System.Reflection.AssemblyProductAttribute("testCshurp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("testCshurp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

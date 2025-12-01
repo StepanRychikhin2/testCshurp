@@ -38,10 +38,21 @@ namespace project
 
 
 
-            int user1, user2;
-            user1 = Convert.ToInt32(Console.ReadLine());
-            user2 = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine(user1 + user2);
+            // int user1, user2;
+            // user1 = Convert.ToInt32(Console.ReadLine());
+            // user2 = Convert.ToInt32(Console.ReadLine());
+            // Console.WriteLine(user1 + user2);
+
+
+            int user_input, user_inputTwo;
+            Console.WriteLine("Enter number1: ");
+            // Console.WriteLine("Enter number2: ");
+            user_input = Convert.ToInt32(Console.ReadLine());
+            user_inputTwo = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("resutl " + user_input);
+            Console.WriteLine("resutl " + (user_input / user_inputTwo));
+            Console.WriteLine(Math.PI);
+            Console.WriteLine(Math.Round(12.123133f)); // округлює число
         }
     }
 }
